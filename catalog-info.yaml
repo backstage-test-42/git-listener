@@ -9,7 +9,7 @@ metadata:
   tags:
     - go
 spec:
-  type: service
+  type: blabla
   lifecycle: production
   owner: infrastructure
   system: git
