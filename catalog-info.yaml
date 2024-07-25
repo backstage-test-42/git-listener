@@ -8,6 +8,7 @@ metadata:
     category: music
   tags:
     - go
+    - banana
 spec:
   type: blabla
   lifecycle: production
