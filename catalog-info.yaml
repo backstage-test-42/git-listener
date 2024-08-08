@@ -13,4 +13,4 @@ spec:
   type: blabla
   lifecycle: production
   owner: infrastructure
-  system: git
+  system: audio-test
