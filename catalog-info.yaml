@@ -8,9 +8,9 @@ metadata:
     category: music
   tags:
     - go
-    - banana
+    - backend
 spec:
-  type: blabla
+  type: repo
   lifecycle: production
   owner: infrastructure
   system: audio-playback
